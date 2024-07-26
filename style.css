@@ -61,9 +61,9 @@ button {
 .wrapper {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    box-shadow: var(--persian-blue) 50px 20px 100px -5px, var(--persian-blue) 0px 8px 16px -8px;
     max-width: 600px;
     border-radius: 22px;
+    box-shadow: 10px 10px 500px .1px var(--light-lavender);
 }
 
 .wrapper .column:first-child {
