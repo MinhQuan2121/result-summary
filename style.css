@@ -68,7 +68,7 @@ button {
 
 .wrapper .column:first-child {
     color: var(--white);
-    background: linear-gradient(var(--gradient-violet-blue), var(--gradient-light-royal-blue));
+    background: linear-gradient(var(--gradient-light-slate-blue), var(--gradient-light-royal-blue));
     text-align: center;
     display: grid;
     row-gap: 1.4em;
@@ -86,8 +86,7 @@ button {
 }
 
 .result__point {
-    background-color: hsl(248, 60%, 45%);
-    box-shadow: inset var(--gradient-violet-blue) 0px 0px 60px -12px;
+    background: linear-gradient(var(--gradient-violet-blue), var(--persian-blue));
     aspect-ratio: 1;
     width: 140px;
     border-radius: 100%;
