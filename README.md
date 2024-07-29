@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page solution
+# Frontend Mentor - Result Summary
 
 <div align="left">
   <a href="https://github.com/MinhQuan2121?tab=repositories" target="_blank">
